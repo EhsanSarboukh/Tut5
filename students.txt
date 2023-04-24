@@ -1,6 +1,0 @@
-{"firstName": "Sabeel", "lastName": "Hamood", "email": "Sabeel.Hamood@e.braude.ac.il", "Courses": ["Math","Java"], "Link": "https://research.google.com/colaboratory/faq.html"}
-{"firstName": "Ehsan", "lastName": "Sarboukh", "email": "Ehsan.Sarboukh@e.braude.ac.il", "Courses": ["C","Java"], "Link": "https://research.google.com/colaboratory/faq.html"}
-{"firstName": "Sara", "lastName": "Asad", "email": "Sara.Asad@e.braude.ac.il", "Courses": ["Math","algebra"], "Link": "https://research.google.com/colaboratory/faq.html"}
-{"firstName": "Safwan", "lastName": "Halabi", "email": "Safwan.Halabi@e.braude.ac.il", "Courses": ["english","Java"], "Link": "https://research.google.com/colaboratory/faq.html"}
-{"firstName": "Bshara", "lastName": "Bshara", "email": "Bshara.Bshara@e.braude.ac.il", "Courses": ["C","Java"], "Link": "https://research.google.com/colaboratory/faq.html"}
-{"firstName": "Mohamd", "lastName": "Mdah", "email": "Mohamd.Mdah@e.braude.ac.il", "Courses": ["Math","Java"], "Link": "https://research.google.com/colaboratory/faq.html"}
